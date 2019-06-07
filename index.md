@@ -16,8 +16,8 @@ tel:+1 734-846-9266 | 2260 Hayward St, Ann Arbor, MI 48109
 
 ## Currently
 
-I am a PhD student in the <a href="https://www.eecs.umich.edu/">Department Electrical Engineering and Computer Science</a>at <a href="https://umich.edu/">University of Michigan</a>. I am advised <a href="https://web.eecs.umich.edu/~taustin/">Prof.Todd Austin</a>. I am student in the <a href="https://www.eecs.umich.edu/celab/">Computer Engineering Laboratory(CELAB)</a> at University of Michigan. I am also a student in <a href="https://adacenter.org/
-">The Center for Applications Driving Architectures(ADA)</a>. My field of student is computer system and architecture.
+I am a PhD student in the <a href="https://www.eecs.umich.edu/">Department Electrical Engineering and Computer Science</a> at <a href="https://umich.edu/">University of Michigan</a>. I am advised <a href="https://web.eecs.umich.edu/~taustin/">Prof.Todd Austin</a>. I am a student in the <a href="https://www.eecs.umich.edu/celab/">Computer Engineering Laboratory(CELAB)</a> at University of Michigan. I am also a student in <a href="https://adacenter.org/
+">The Center for Applications Driving Architectures(ADA)</a>. My field of study is computer system and architecture.
 
 <!-- ### Specialized in
 
