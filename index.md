@@ -5,11 +5,10 @@ title: Shibo Chen's CV
 # Shibo Chen
 PhD student, Department Electrical Engineering and Computer Science, University of Michigan.
 
-<div id="webaddress">
-tel:+1 734-846-9266 | 2260 Hayward St, Ann Arbor, MI 48109
+<div id="webaddress">2260 Hayward St, Ann Arbor, MI 48109
 </div>
 <div id="webaddress">
-<a href="chshibo@umich.edu">chshibo@umich.edu</a>
+<a href="chshibo@umich.edu">chshibo [at] umich [dot] edu</a>
 | <a href="https://shibo.tech">https://shibo.tech</a>
 </div>
 
