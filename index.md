@@ -84,7 +84,7 @@ __CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts__
 - *In Proceedings of IEEE Vehicular Networking Conference 2018 (VNC 18’).*
 - J. Erickson, <u>S. Chen</u>, M. Savich, S. Hu, M. Mao.
 
-## Projects
+## Technical Reports
 `2019`
 __Deep Dive Into the Cost of Context Switch__
 - <u>Shibo Chen</u>, Yu Wu, Xinyun Jiang, Wen-Jye Hu
