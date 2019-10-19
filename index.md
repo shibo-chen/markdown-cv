@@ -28,15 +28,14 @@ Heterogeneous architecture design, datacenter architecture, agile hardware desig
 
 
 ## Education
+`2019 - now`
+__University of Michigan, Ann Arbor, MI__  
+- Doctor of Philosophy in Computer Science and Engineering  
 
 `2016-2019`
 __University of Michigan, Ann Arbor, MI__  
 - Bachelor of Science in Computer Science with *High Distinction*
 - GPA: 3.92
-
-`2019 - now`
-__University of Michigan, Ann Arbor, MI__  
-- Doctor of Philosophy in Computer Science and Engineering  
 
 <!-- `1667 - death`
 __Trinity College, Cambridge__
@@ -130,14 +129,17 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Research Occupation
 
-`May 2018 - August 2018`
-__Research Assistant__
+`Sept 2019 - Present`
+__Graduate Student Research Assistant__
 - University of Michigan, Ann Arbor, Michigan
 
 `May 2019 - August 2019`
 __Research Assistant__
 - University of Michigan, Ann Arbor, Michigan
 
+`May 2018 - August 2018`
+__Research Assistant__
+- University of Michigan, Ann Arbor, Michigan
 
 
 <!-- ### Footer
