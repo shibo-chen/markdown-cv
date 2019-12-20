@@ -54,15 +54,15 @@ __NSF travel Grant to The 23rd ACM International Conference on Architectural Sup
 __EECS Scholar__
 - Department of Electrical Engineering and Computer Science, *University of Michgan*, Ann Arbor, Michigan
 
-`2019`  
+`2019`
 __University Honors__
 - *University of Michgan*, Ann Arbor, Michigan
   
 `2018`
-__James B. Angell Scholor__
+__James B. Angell Scholar__
 - *University of Michgan*, Ann Arbor, Michigan
 
-`2018`  
+`2018`
 __University Honors__
 - *University of Michgan*, Ann Arbor, Michigan
 
