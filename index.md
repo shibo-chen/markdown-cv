@@ -86,7 +86,7 @@ __CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts__
 ## Technical Reports
 `2019`
 __Shadowclone: Thwarting and Detecting DOP Attacks with Stack Layout Randomization and Canary__
-- Yunjie Pan,<u>Shibo Chen</u>, Cheng Chi, Yifan Guan
+- Yunjie Pan, <u>Shibo Chen</u>, Cheng Chi, Yifan Guan
 - *In this project, we developed a compile-time randomization technique to thwart Data-Oriented Programming attacks. Furthermore, we utilize stack canary to detect ongoing attacks. Our results show that our approach has low performance overhead on programs with few function calls. We also show that it is practically hard for attackers to succeed even under our conservative assumptions.*
 
 __Deep Dive Into the Cost of Context Switch__
