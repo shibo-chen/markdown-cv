@@ -3,7 +3,7 @@ layout: cv
 title: Shibo Chen's CV
 ---
 # Shibo Chen
-PhD student, Department Electrical Engineering and Computer Science, University of Michigan.
+PhD student, Department of Electrical Engineering and Computer Science, University of Michigan.
 
 <div id="webaddress">2260 Hayward St, Ann Arbor, MI 48109
 </div>
@@ -15,7 +15,7 @@ PhD student, Department Electrical Engineering and Computer Science, University 
 
 ## Currently
 
-I am a PhD student in the <a href="https://www.eecs.umich.edu/">Department Electrical Engineering and Computer Science</a> at <a href="https://umich.edu/">University of Michigan</a>. I am advised <a href="https://web.eecs.umich.edu/~taustin/">Prof.Todd Austin</a>. I am a student in the <a href="https://www.eecs.umich.edu/celab/">Computer Engineering Laboratory(CELAB)</a> at University of Michigan. I am also a student in <a href="https://adacenter.org/
+I am a PhD student in the <a href="https://www.eecs.umich.edu/">Department of Electrical Engineering and Computer Science</a> at <a href="https://umich.edu/">the University of Michigan</a>. I am advised <a href="https://web.eecs.umich.edu/~taustin/">Prof.Todd Austin</a>. I am a student in the <a href="https://www.eecs.umich.edu/celab/">Computer Engineering Laboratory(CELAB)</a> at the University of Michigan. I am also a student in <a href="https://adacenter.org/
 ">The Center for Applications Driving Architectures(ADA)</a>. My field of study is computer system and architecture.
 
 <!-- ### Specialized in
@@ -52,11 +52,11 @@ __NSF travel Grant to The 23rd ACM International Conference on Architectural Sup
 
 `2019`
 __EECS Scholar__
-- Department Electrical Engineering and Computer Science, *University of Michgan*, Ann Arbor, Michigan
+- Department of Electrical Engineering and Computer Science, *University of Michgan*, Ann Arbor, Michigan
 
 `2019`  
 __University Honors__
-- *University of Michgan*, Ann Arbor, Michigan  
+- *University of Michgan*, Ann Arbor, Michigan
   
 `2018`
 __James B. Angell Scholor__
@@ -64,11 +64,11 @@ __James B. Angell Scholor__
 
 `2018`  
 __University Honors__
-- *University of Michgan*, Ann Arbor, Michigan  
+- *University of Michgan*, Ann Arbor, Michigan
 
 `2017`
 __University Honors__ 
-- *University of Michgan*, Ann Arbor, Michigan  
+- *University of Michgan*, Ann Arbor, Michigan
 
 ## Publications
 
@@ -85,9 +85,13 @@ __CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts__
 
 ## Technical Reports
 `2019`
+__Shadowclone: Thwarting and Detecting DOP Attacks with Stack Layout Randomization and Canary__
+- Yunjie Pan,<u>Shibo Chen</u>, Cheng Chi, Yifan Guan
+- *In this project, we developed a compile-time randomization technique to thwart Data-Oriented Programming attacks. Furthermore, we utilize stack canary to detect ongoing attacks. Our results show that our approach has low performance overhead on programs with few function calls. We also show that it is practically hard for attackers to succeed even under our conservative assumptions.*
+
 __Deep Dive Into the Cost of Context Switch__
 - <u>Shibo Chen</u>, Yu Wu, Xinyun Jiang, Wen-Jye Hu
-- *In this project, we are trying to identify the major components of the context swtich overhead on modern CPUs. We showed that data cache misses and d-TLB misses are two major contributors of the overhead. Furthermore, we showed that it requires a non-trivial effort to implement an user-level multithreading library.*
+- *In this project, we identified the major components of the context swtich overhead on modern CPUs. We show that data cache misses and d-TLB misses are two major contributors of the overhead. Furthermore, we demonstrate that it requires a non-trivial effort to implement an user-level multithreading library.*
 
 `2018`
 __ThundaTag: Disparate Domain Tagging to Enforce Benign Program Behavior__
@@ -102,7 +106,7 @@ __An Alpha-64 Out-of-Order Processor Design__
 `2018`
 __Understanding the Value of Ensemble of Moving Target Defenses in Morpheus__
 - <u>Shibo Chen</u>
-- *In this work, I studied the average time needed to penetrate a de-featured Morpheus design. The result underscores the robustness of Morpheus defenses.*
+- *In this work, we studied the average time needed to penetrate a de-featured Morpheus design. The result underscores the robustness of Morpheus defenses.*
 
 `2018`
 __PowerSpy Upgraded: Location Tracking using Mobile Device Power Analysis__
