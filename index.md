@@ -145,9 +145,14 @@ __Research Assistant__
 __Research Assistant__
 - University of Michigan, Ann Arbor, Michigan
 
+## Undergraduate Mentor
+`Sept 2019 - Present`
+__Mentor for Discover Yourself Program__
+- University of Michigan, Ann Arbor, Michigan
+- *Mentored over 13 first-year Michigan undergraduate students on career development & research skills.*
 
-<!-- ### Footer
+<!-- ### Footer -->
 
-Last updated: June 2019 -->
+Last updated: March 2020
 
 
