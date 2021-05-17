@@ -1,15 +1,4 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset=utf-8 />
-  <title>  Shibo Chen's CV |  CV</title>
-  <link href="media/davewhipp-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/davewhipp-print.css" type="text/css" rel="stylesheet" media="print">
-</head>
-<body>
-  <div id="main">
-    <div id="content">
-    <h1 id="shibo-chen">Shibo Chen</h1>
+I"Ñ<h1 id="shibo-chen">Shibo Chen</h1>
 <p>PhD Candidate, Department of Electrical Engineering and Computer Science, University of Michigan.</p>
 
 <div id="webaddress">2260 Hayward St, Ann Arbor, MI 48109
@@ -191,8 +180,4 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 <p>Last updated: May. 2021</p>
 
-
-    </div>
-  </div>
-</body>
-</html>
+:ET

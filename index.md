@@ -3,7 +3,7 @@ layout: cv
 title: Shibo Chen's CV
 ---
 # Shibo Chen
-PhD student, Department of Electrical Engineering and Computer Science, University of Michigan.
+PhD Candidate, Department of Electrical Engineering and Computer Science, University of Michigan.
 
 <div id="webaddress">2260 Hayward St, Ann Arbor, MI 48109
 </div>
@@ -15,7 +15,7 @@ PhD student, Department of Electrical Engineering and Computer Science, Universi
 
 ## Currently
 
-I am a PhD student in the <a href="https://www.eecs.umich.edu/">Department of Electrical Engineering and Computer Science</a> at <a href="https://umich.edu/">the University of Michigan</a>. I am advised <a href="https://web.eecs.umich.edu/~taustin/">Prof.Todd Austin</a>. I am a student in the <a href="https://www.eecs.umich.edu/celab/">Computer Engineering Laboratory(CELAB)</a> at the University of Michigan. I am also a student in <a href="https://adacenter.org/
+I am a PhD Candidate in the <a href="https://www.eecs.umich.edu/">Department of Electrical Engineering and Computer Science</a> at <a href="https://umich.edu/">the University of Michigan</a>. I am advised <a href="https://web.eecs.umich.edu/~taustin/">Prof.Todd Austin</a>. I am a student in the <a href="https://www.eecs.umich.edu/celab/">Computer Engineering Laboratory(CELAB)</a> at the University of Michigan. I am also a student in <a href="https://adacenter.org/
 ">The Center for Applications Driving Architectures(ADA)</a>. My field of study is computer system and architecture.
 
 <!-- ### Specialized in
@@ -30,8 +30,9 @@ Heterogeneous architecture design, datacenter architecture, agile hardware desig
 ## Education
 `2019 - now`
 __University of Michigan, Ann Arbor, MI__  
-- Doctor of Philosophy in Computer Science and Engineering  
+- Doctor of Philosophy in Computer Science and Engineering
 - GPA: 3.91
+- Qualification Examination Thesis: SimpleChisel: A Hardware Design Language for Component-Level Heterogeneous Designs
 
 `2016 - 2019`
 __University of Michigan, Ann Arbor, MI__  
@@ -46,10 +47,6 @@ __Trinity College, Cambridge__
 
 
 ## Awards
-
-`2019`
-__NSF travel Grant to The 23rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems__
-- *National Science Foundation*
 
 `2019`
 __EECS Scholar__
@@ -154,6 +151,6 @@ __Mentor for Discover Yourself Program__
 
 <!-- ### Footer -->
 
-Last updated: March 2020
+Last updated: May. 2021
 
 

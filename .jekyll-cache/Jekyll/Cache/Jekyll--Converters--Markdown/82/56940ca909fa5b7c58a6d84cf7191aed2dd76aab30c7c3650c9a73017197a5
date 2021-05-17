@@ -1,16 +1,5 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset=utf-8 />
-  <title>  Shibo Chen's CV |  CV</title>
-  <link href="media/davewhipp-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/davewhipp-print.css" type="text/css" rel="stylesheet" media="print">
-</head>
-<body>
-  <div id="main">
-    <div id="content">
-    <h1 id="shibo-chen">Shibo Chen</h1>
-<p>PhD Candidate, Department of Electrical Engineering and Computer Science, University of Michigan.</p>
+I"Î<h1 id="shibo-chen">Shibo Chen</h1>
+<p>PhD student, Department of Electrical Engineering and Computer Science, University of Michigan.</p>
 
 <div id="webaddress">2260 Hayward St, Ann Arbor, MI 48109
 </div>
@@ -21,7 +10,7 @@
 
 <h2 id="currently">Currently</h2>
 
-<p>I am a PhD Candidate in the <a href="https://www.eecs.umich.edu/">Department of Electrical Engineering and Computer Science</a> at <a href="https://umich.edu/">the University of Michigan</a>. I am advised <a href="https://web.eecs.umich.edu/~taustin/">Prof.Todd Austin</a>. I am a student in the <a href="https://www.eecs.umich.edu/celab/">Computer Engineering Laboratory(CELAB)</a> at the University of Michigan. I am also a student in <a href="https://adacenter.org/ ">The Center for Applications Driving Architectures(ADA)</a>. My field of study is computer system and architecture.</p>
+<p>I am a PhD student in the <a href="https://www.eecs.umich.edu/">Department of Electrical Engineering and Computer Science</a> at <a href="https://umich.edu/">the University of Michigan</a>. I am advised <a href="https://web.eecs.umich.edu/~taustin/">Prof.Todd Austin</a>. I am a student in the <a href="https://www.eecs.umich.edu/celab/">Computer Engineering Laboratory(CELAB)</a> at the University of Michigan. I am also a student in <a href="https://adacenter.org/ ">The Center for Applications Driving Architectures(ADA)</a>. My field of study is computer system and architecture.</p>
 
 <!-- ### Specialized in
 
@@ -189,10 +178,6 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 <!-- ### Footer -->
 
-<p>Last updated: May. 2021</p>
+<p>Last updated: March 2020</p>
 
-
-    </div>
-  </div>
-</body>
-</html>
+:ET
