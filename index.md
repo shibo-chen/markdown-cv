@@ -31,6 +31,7 @@ Heterogeneous architecture design, datacenter architecture, agile hardware desig
 `2019 - now`
 __University of Michigan, Ann Arbor, MI__  
 - Doctor of Philosophy in Computer Science and Engineering  
+- GPA: 3.91
 
 `2016 - 2019`
 __University of Michigan, Ann Arbor, MI__  
