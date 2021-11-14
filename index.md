@@ -69,6 +69,21 @@ __University Honors__
 - *University of Michgan*, Ann Arbor, Michigan
 
 ## Publications
+`2022`
+__Twine A Chisel Extension for Component-Level Heterogeneous Design__
+- *(To Appear) In Proceedings of Design, Automation and Test in Europe Conference 2022 (DATE '22).*
+- <u>S. Chen</u>, J. Fisseha, J.B. Jeannin, T. Austin. 
+
+`2021`
+__(WIP) SimpleChisel: A Hardware Design Language for Component-Level Heterogeneous Design__
+- *Work-in Progress in the 58th Design Automation Conference (DAC 58).*
+- <u>S. Chen</u>, J. Fisseha, J.B. Jeannin, T. Austin. 
+
+
+`2021`
+__SimpleChisel: A Chisel Extension for Component-Level Heterogeneous Design__
+- *TechCon 2021.*
+- <u>S. Chen</u>, J. Fisseha, T. Austin. 
 
 `2019`
 __Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn__
@@ -135,6 +150,10 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 __Graduate Student Research Assistant__
 - University of Michigan, Ann Arbor, Michigan
 
+`Jun 2018 - Present`
+__SRC Research Scholars__
+-  SRC Research Scholars Program 
+
 `May 2019 - August 2019`
 __Research Assistant__
 - University of Michigan, Ann Arbor, Michigan
@@ -151,6 +170,4 @@ __Mentor for Discover Yourself Program__
 
 <!-- ### Footer -->
 
-Last updated: May. 2021
-
-
+Last updated: Nov. 2021
