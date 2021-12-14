@@ -71,7 +71,7 @@ __University Honors__
 ## Publications
 `2022`
 __Twine A Chisel Extension for Component-Level Heterogeneous Design__
-- *(To Appear) In Proceedings of Design, Automation and Test in Europe Conference 2022 (DATE '22).*
+- *(To Appear) In Proceedings of Design, Automation and Test in Europe Conference 2022 (DATE'22, 25% Acceptance Rate)*
 - <u>S. Chen</u>, J. Fisseha, J.B. Jeannin, T. Austin. 
 
 `2021`
