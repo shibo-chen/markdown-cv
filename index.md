@@ -31,7 +31,7 @@ Heterogeneous architecture design, datacenter architecture, agile hardware desig
 `2019 - now`
 __University of Michigan, Ann Arbor, MI__  
 - Doctor of Philosophy in Computer Science and Engineering
-- GPA: 3.91
+- GPA: 3.93
 - Qualification Examination Thesis: SimpleChisel: A Hardware Design Language for Component-Level Heterogeneous Designs
 
 `2016 - 2019`
