@@ -74,11 +74,6 @@ __Twine A Chisel Extension for Component-Level Heterogeneous Design__
 - *(To Appear) In Proceedings of Design, Automation and Test in Europe Conference 2022 (DATE'22, 25% Acceptance Rate)*
 - <u>S. Chen</u>, J. Fisseha, J.B. Jeannin, T. Austin. 
 
-`2021`
-__(WIP) SimpleChisel: A Hardware Design Language for Component-Level Heterogeneous Design__
-- *Work-in Progress in the 58th Design Automation Conference (DAC 58).*
-- <u>S. Chen</u>, J. Fisseha, J.B. Jeannin, T. Austin. 
-
 
 `2021`
 __SimpleChisel: A Chisel Extension for Component-Level Heterogeneous Design__
