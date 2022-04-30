@@ -31,7 +31,7 @@ Heterogeneous architecture design, datacenter architecture, agile hardware desig
 `2019 - now`
 __University of Michigan, Ann Arbor, MI__  
 - Doctor of Philosophy in Computer Science and Engineering
-- GPA: 3.93
+- GPA: 3.9
 - Qualification Examination Thesis: SimpleChisel: A Hardware Design Language for Component-Level Heterogeneous Designs
 
 `2016 - 2019`
@@ -71,7 +71,7 @@ __University Honors__
 ## Publications
 `2022`
 __Twine A Chisel Extension for Component-Level Heterogeneous Design__
-- *(To Appear) In Proceedings of Design, Automation and Test in Europe Conference 2022 (DATE'22, 25% Acceptance Rate)*
+- *In Proceedings of Design, Automation and Test in Europe Conference 2022 (DATE'22, 25% Acceptance Rate)*
 - <u>S. Chen</u>, J. Fisseha, J.B. Jeannin, T. Austin. 
 
 
@@ -165,4 +165,4 @@ __Mentor for Discover Yourself Program__
 
 <!-- ### Footer -->
 
-Last updated: Nov. 2021
+Last updated: April 2022
