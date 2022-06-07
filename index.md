@@ -43,8 +43,17 @@ __University of Michigan, Ann Arbor, MI__
 __Trinity College, Cambridge__
 
 - Fellow -->
+## Experience
+`2022 May - Present`
+__Tenstorrent Inc., Santa Clara, CA__
+- *Platform Architect Intern*
+- Model and analyze the bottleneck of the hardware platform.
 
-
+## Leadership
+`2022 May - Present`
+__Computer Science and Engineering Graduate Students at UM, Ann Arbor, MI__
+- *President and Social Chair*
+- Coordinate and support officers to fulfill responsibilities and execute new initiatives.
 
 ## Awards
 
