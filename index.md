@@ -34,6 +34,10 @@ __University of Michigan, Ann Arbor, MI__
 - GPA: 3.9
 - Qualification Examination Thesis: SimpleChisel: A Hardware Design Language for Component-Level Heterogeneous Designs
 
+`2022 - now`
+__University of Michigan, Ann Arbor, MI__
+- Graduate Certificate in Innovation & Entrepreneurship
+
 `2016 - 2019`
 __University of Michigan, Ann Arbor, MI__  
 - Bachelor of Science in Computer Science with *High Distinction*
