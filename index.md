@@ -32,7 +32,7 @@ Heterogeneous architecture design, datacenter architecture, agile hardware desig
 __University of Michigan, Ann Arbor, MI__  
 - Doctor of Philosophy in Computer Science and Engineering
 - GPA: 3.9
-- Qualification Examination Thesis: SimpleChisel: A Hardware Design Language for Component-Level Heterogeneous Designs
+- Qualification Examination Thesis: SimpleChisel: A Hardware Design Language for Component-Level Heterogeneous Design
 
 `2022 - now`
 __University of Michigan, Ann Arbor, MI__
@@ -48,13 +48,15 @@ __Trinity College, Cambridge__
 
 - Fellow -->
 ## Experience
-`2022 May - Present`
+`May 2022 - August 2022`
 __Tenstorrent Inc., Santa Clara, CA__
 - *Platform Architect Intern*
-- Model and analyze the bottleneck of the hardware platform.
+- Participated in the architectural design of a modern server-level RISC-V multicore CPU.
+- Developed in-house reconfigurable fabric performance model for heterogeneous multicore systems.
+- Designed configuration semantics to represent a wide range of farbric design options.
 
 ## Leadership
-`2022 May - Present`
+`May 2022 - Present`
 __Computer Science and Engineering Graduate Students at UM, Ann Arbor, MI__
 - *President and Social Chair*
 - Coordinate and support officers to fulfill responsibilities and execute new initiatives.
