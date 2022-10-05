@@ -180,4 +180,4 @@ __Mentor for Discover Yourself Program__
 
 <!-- ### Footer -->
 
-Last updated: April 2022
+Last updated: September 2022
