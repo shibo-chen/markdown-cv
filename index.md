@@ -57,7 +57,7 @@ __Tenstorrent Inc., Santa Clara, CA__
 
 ## Leadership
 `May 2022 - Present`
-__Computer Science and Engineering Graduate Students at UM, Ann Arbor, MI__
+__Computer Science and Engineering Graduate Students, Ann Arbor, MI__
 - *President and Social Chair*
 - Coordinate and support officers to fulfill responsibilities and execute new initiatives.
 
