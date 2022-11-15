@@ -28,7 +28,7 @@ Heterogeneous architecture design, datacenter architecture, agile hardware desig
 
 
 ## Education
-`2019 - now`
+`2019 - May 2024`
 __University of Michigan, Ann Arbor, MI__  
 - Doctor of Philosophy in Computer Science and Engineering
 - GPA: 3.9
@@ -57,7 +57,7 @@ __Tenstorrent Inc., Santa Clara, CA__
 
 ## Leadership
 `May 2022 - Present`
-__Computer Science and Engineering Graduate Students, Ann Arbor, MI__
+__Computer Science and Engineering Graduate Students at UM__
 - *President and Social Chair*
 - Coordinate and support officers to fulfill responsibilities and execute new initiatives.
 
@@ -84,6 +84,11 @@ __University Honors__
 - *University of Michgan*, Ann Arbor, Michigan
 
 ## Publications
+`2022`
+__Zipper: Latency-Tolerant Optimizations for High-Performance Buses__
+- *In Submission to ASPLOS'23*
+- <u>S. Chen</u>, H. Zhang, T. Austin.
+
 `2022`
 __Twine A Chisel Extension for Component-Level Heterogeneous Design__
 - *In Proceedings of Design, Automation and Test in Europe Conference 2022 (DATE'22, 25% Acceptance Rate)*
@@ -180,4 +185,4 @@ __Mentor for Discover Yourself Program__
 
 <!-- ### Footer -->
 
-Last updated: September 2022
+Last updated: November 2022
