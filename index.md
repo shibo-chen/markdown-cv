@@ -209,11 +209,11 @@ __Mentor for Discover-Self Program__
 
 `Sept 2022 - Present`
 __Hailun(Shirley) Zhang__
-Senior Undergraduate, University of Michigan
+- Senior Undergraduate, University of Michigan
 
 `Dec 2023 - Prsent`
 __Yunjie Zhang__
-Junior Undergraduate, University of Michigan
+- Junior Undergraduate, University of Michigan
 <!-- ### Footer -->
 
 Last updated: January 2023
