@@ -24,14 +24,14 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Heterogeneous architecture design, datacenter architecture, agile hardware design, operating system.
+Heterogeneous architecture design, agile hardware design, operating system, privacy-preserving architecture.
 
 
 ## Education
 `2019 - May 2024`
 __University of Michigan, Ann Arbor, MI__  
 - Doctor of Philosophy in Computer Science and Engineering
-- GPA: 3.9
+- GPA: 3.91
 - Qualification Examination Thesis: SimpleChisel: A Hardware Design Language for Component-Level Heterogeneous Design
 
 `2022 - now`
@@ -47,7 +47,7 @@ __University of Michigan, Ann Arbor, MI__
 __Trinity College, Cambridge__
 
 - Fellow -->
-## Experience
+## Industry Experience
 `May 2022 - August 2022`
 __Tenstorrent Inc., Santa Clara, CA__
 - *Platform Architect Intern*
@@ -55,11 +55,35 @@ __Tenstorrent Inc., Santa Clara, CA__
 - Developed in-house reconfigurable fabric performance model for heterogeneous multicore systems.
 - Designed configuration semantics to represent a wide range of farbric design options.
 
+## Teaching Experience
+`Jan 2023 - Present`
+__University of Michigan, Ann Arbor, MI__
+- *Graduate Student Instructor*
+- Teaching and managing EECS598-9 Privacy-enhacing Technologies.
+
 ## Leadership
 `May 2022 - Present`
 __Computer Science and Engineering Graduate Students at UM__
 - *President and Social Chair*
-- Coordinate and support officers to fulfill responsibilities and execute new initiatives.
+- Elected to represent over 450 CSE graduate students.
+- Managed regular communications between department leadership and CSEG leasership.
+- Planned and oversaw student lounge refurbishment.
+- Organized student welcome events, regular tea time, Yost skating, and other social activities.
+- Coordinated and supported officers to fulfill responsibilities and execute new initiatives.
+
+
+`April 2021 - April 2022`
+__UM Chinese Students Alumni Center__
+- *Vice President*
+- Hosted 6 career panels and tea time.
+- Documented and publsihed panel discussion online.
+
+`Sept 2019 - April 2022`
+__Discover-Self Mentoring Program(寻己)__
+- *Cofounder and mentor*
+- Planned and cofounded the mentoring program.
+- Mentored 13 UM freshmen and sophomore students over 1 year.
+- Gave multiple presentations on career development.
 
 ## Awards
 
@@ -165,7 +189,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 __Graduate Student Research Assistant__
 - University of Michigan, Ann Arbor, Michigan
 
-`Jun 2018 - Present`
+`Jun 2018 - Dec 2022`
 __SRC Research Scholars__
 -  SRC Research Scholars Program 
 
@@ -177,12 +201,19 @@ __Research Assistant__
 __Research Assistant__
 - University of Michigan, Ann Arbor, Michigan
 
-## Undergraduate Mentor
-`Sept 2019 - Present`
-__Mentor for Discover Yourself Program__
+## Mentoring
+`Sept 2019 - April 2020`
+__Mentor for Discover-Self Program__
 - University of Michigan, Ann Arbor, Michigan
-- *Mentored over 13 first-year Michigan undergraduate students on career development & research skills.*
+- *Mentored over 13 first-year UM undergraduate students on career development & research skills.*
 
+`Sept 2022 - Present`
+__Hailun(Shirley) Zhang__
+Senior Undergraduate, University of Michigan
+
+`Dec 2023 - Prsent`
+__Yunjie Zhang__
+Junior Undergraduate, University of Michigan
 <!-- ### Footer -->
 
-Last updated: November 2022
+Last updated: January 2023
