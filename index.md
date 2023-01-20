@@ -108,9 +108,15 @@ __University Honors__
 - *University of Michgan*, Ann Arbor, Michigan
 
 ## Publications
-`2022`
+`2023`
+__Security Verification of Low-Trust Architectures__
+- *Under Submission*
+- Q. Tan\*, Y. Fisseha\*, <u>S. Chen</u>\*, L. Biernacki, J.B. Jeannin, S. Malik, T. Austin.
+- \* These individuals contributed equally to the work.
+
+`2023`
 __Zipper: Latency-Tolerant Optimizations for High-Performance Buses__
-- *In Submission to ASPLOS'23*
+- *Under Submission*
 - <u>S. Chen</u>, H. Zhang, T. Austin.
 
 `2022`
