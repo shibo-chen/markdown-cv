@@ -48,6 +48,10 @@ __Trinity College, Cambridge__
 
 - Fellow -->
 ## Industry Experience
+`May 2023 - Present`
+__Tenstorrent Inc., Santa Clara, CA__
+- *Platform Architect Intern*
+
 `May 2022 - August 2022`
 __Tenstorrent Inc., Santa Clara, CA__
 - *Platform Architect Intern*
@@ -56,13 +60,14 @@ __Tenstorrent Inc., Santa Clara, CA__
 - Designed configuration semantics to represent a wide range of farbric design options.
 
 ## Teaching Experience
-`Jan 2023 - Present`
+`Jan 2023 - April 2023`
 __University of Michigan, Ann Arbor, MI__
 - *Graduate Student Instructor*
-- Teaching and managing EECS598-9 Privacy-enhacing Technologies.
+- Taught and managed EECS598-9 Privacy-enhacing Technologies.
+- Received perfect student ratings on the overall teaching quality (5.0/5.0).
 
 ## Leadership
-`May 2022 - Present`
+`May 2022 - April 2023`
 __Computer Science and Engineering Graduate Students at UM__
 - *President and Social Chair*
 - Elected to represent over 450 CSE graduate students.
@@ -71,12 +76,6 @@ __Computer Science and Engineering Graduate Students at UM__
 - Organized student welcome events, regular tea time, Yost skating, and other social activities.
 - Coordinated and supported officers to fulfill responsibilities and execute new initiatives.
 
-
-`April 2021 - April 2022`
-__UM Chinese Students Alumni Center__
-- *Vice President*
-- Hosted 6 career panels and tea time.
-- Documented and publsihed panel discussion online.
 
 `Sept 2019 - April 2022`
 __Discover-Self Mentoring Program(寻己)__
@@ -110,7 +109,7 @@ __University Honors__
 ## Publications
 `2023`
 __Security Verification of Low-Trust Architectures__
-- *Under Submission*
+- *To Appear in The ACM Conference on Computer and Communications Security 2023 (CCS'23).*
 - Q. Tan\*, Y. Fisseha\*, <u>S. Chen</u>\*, L. Biernacki, J.B. Jeannin, S. Malik, T. Austin.
 - \* These individuals contributed equally to the work.
 
@@ -138,7 +137,7 @@ Tiwari, T. Austin.
   
 `2018`
 __CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts__
-- *In Proceedings of IEEE Vehicular Networking Conference 2018 (VNC 18’).*
+- *In Proceedings of IEEE Vehicular Networking Conference 2018 (VNC '18).*
 - J. Erickson, <u>S. Chen</u>, M. Savich, S. Hu, M. Mao.
 
 ## Technical Reports
