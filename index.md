@@ -13,10 +13,9 @@ PhD Candidate, Department of Electrical Engineering and Computer Science, Univer
 </div>
 
 
-## Currently
+## About me
 
-I am a PhD Candidate in the <a href="https://www.eecs.umich.edu/">Department of Electrical Engineering and Computer Science</a> at <a href="https://umich.edu/">the University of Michigan</a>. I am advised <a href="https://web.eecs.umich.edu/~taustin/">Prof.Todd Austin</a>. I am a student in the <a href="https://www.eecs.umich.edu/celab/">Computer Engineering Laboratory(CELAB)</a> at the University of Michigan. I am also a student in <a href="https://adacenter.org/
-">The Center for Applications Driving Architectures(ADA)</a>. My field of study is computer system and architecture.
+I am a PhD Candidate in [the Department of Electrical Engineering and Computer Science]("https://www.eecs.umich.edu/") at [the University of Michigan]("https://umich.edu/"). I am advised [Prof.Todd Austin](<a href="https://web.eecs.umich.edu/~taustin/">). I am a student in [the Computer Engineering Laboratory(CELAB)]("https://www.eecs.umich.edu/celab/") at the University of Michigan. My field of study is computer system and architecture.
 
 <!-- ### Specialized in
 
@@ -32,7 +31,8 @@ Heterogeneous architecture design, agile hardware design, operating system, priv
 __University of Michigan, Ann Arbor, MI__  
 - Doctor of Philosophy in Computer Science and Engineering
 - GPA: 3.91
-- Qualification Examination Thesis: SimpleChisel: A Hardware Design Language for Component-Level Heterogeneous Design
+- Proposed Dissrtation Thesis: *Streamlining Heterogeneous Hardware Design*
+
 
 `2022 - now`
 __University of Michigan, Ann Arbor, MI__
@@ -51,6 +51,11 @@ __Trinity College, Cambridge__
 `May 2023 - Present`
 __Tenstorrent Inc., Santa Clara, CA__
 - *Platform Architect Intern*
+- Estimated traffic on/off the chip for power analysis.
+- Proposed and studied architecture changes that boost both multi-core performance and power efficiency.
+- Drafted testplan for cache and fabric verification.
+- Developed workflow for multi-core. multi-chiplet fabric traffic testing and simulation.
+- Configured Arteris IP for non-conherent traffic.
 
 `May 2022 - August 2022`
 __Tenstorrent Inc., Santa Clara, CA__
@@ -60,10 +65,17 @@ __Tenstorrent Inc., Santa Clara, CA__
 - Designed configuration semantics to represent a wide range of farbric design options.
 
 ## Teaching Experience
+`August 2023 - December 2023`
+__University of Michigan, Ann Arbor, MI__
+- *Graduate Student Instructor*
+- Taught and managed EECS470 Computer Architecture.
+- Topics include out-of-order processors and speculation, memory hierarchies, branch prediction, virtual memory, cache design, multi-processors, and parallel processing including cache coherence and consistency. Emphasis on power and performance trade-offs. Groups design an advanced (e.g. out-of-order, multi-core, SMT) processor using an HDL.
+
 `Jan 2023 - April 2023`
 __University of Michigan, Ann Arbor, MI__
 - *Graduate Student Instructor*
-- Taught and managed EECS598-9 Privacy-enhacing Technologies.
+- Taught and managed EECS598-9 Privacy-enhancing Technologies (PETS).
+- Topics include differential privacy, zero-knowledge proof, multi-party computation, oblivious computing, etc. Group develop research or engineering projects with PETS.
 - Received perfect student ratings on the overall teaching quality (5.0/5.0).
 
 ## Leadership
