@@ -48,7 +48,7 @@ __Trinity College, Cambridge__
 
 - Fellow -->
 ## Industry Experience
-`May 2023 - Present`
+`May 2023 - August 2023`
 __Tenstorrent Inc., Santa Clara, CA__
 - *Platform Architect Intern*
 - Estimated traffic on/off the chip for power analysis.
