@@ -135,12 +135,6 @@ __Twine A Chisel Extension for Component-Level Heterogeneous Design__
 - *In Proceedings of Design, Automation and Test in Europe Conference 2022 (DATE'22, 25% Acceptance Rate)*
 - <u>S. Chen</u>, J. Fisseha, J.B. Jeannin, T. Austin. 
 
-
-`2021`
-__SimpleChisel: A Chisel Extension for Component-Level Heterogeneous Design__
-- *TechCon 2021.*
-- <u>S. Chen</u>, J. Fisseha, T. Austin. 
-
 `2019`
 __Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn__
 - *In Proceedings of 24th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '19).*
@@ -224,13 +218,13 @@ __Mentor for Discover-Self Program__
 - University of Michigan, Ann Arbor, Michigan
 - *Mentored over 13 first-year UM undergraduate students on career development & research skills.*
 
-`Sept 2022 - Present`
+`Sept 2022 - April 2023`
 __Hailun(Shirley) Zhang__
-- Senior Undergraduate, University of Michigan
+- Admitted to PhD program at University of Wisconsin - Madison.
 
 `Dec 2023 - Prsent`
 __Yunjie Zhang__
 - Junior Undergraduate, University of Michigan
 <!-- ### Footer -->
 
-Last updated: May 2023
+Last updated: Sept 2023
