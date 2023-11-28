@@ -90,7 +90,7 @@ __Computer Science and Engineering Graduate Students at UM__
 
 
 `Sept 2019 - April 2022`
-__Discover-Self Mentoring Program(寻己)__
+__Discover-Self Mentoring Program__
 - *Cofounder and mentor*
 - Planned and cofounded the mentoring program.
 - Mentored 13 UM freshmen and sophomore students over 1 year.
@@ -121,7 +121,7 @@ __University Honors__
 ## Publications
 `2023`
 __Security Verification of Low-Trust Architectures__
-- *To Appear in The ACM Conference on Computer and Communications Security 2023 (CCS'23).*
+- *In Proceedings of The ACM Conference on Computer and Communications Security 2023 (CCS'23).* <span style="color:red">**Distinguished Paper Award**</span>
 - Q. Tan\*, Y. Fisseha\*, <u>S. Chen</u>\*, L. Biernacki, J.B. Jeannin, S. Malik, T. Austin.
 - \* These individuals contributed equally to the work.
 
@@ -227,4 +227,4 @@ __Yunjie Zhang__
 - Junior Undergraduate, University of Michigan
 <!-- ### Footer -->
 
-Last updated: Sept 2023
+Last updated: Nov 2023
