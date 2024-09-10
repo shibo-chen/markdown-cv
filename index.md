@@ -65,6 +65,12 @@ __Tenstorrent Inc., Santa Clara, CA__
 - Designed configuration semantics to represent a wide range of farbric design options.
 
 ## Teaching Experience
+`January 2024 - April 2024`
+__University of Michigan, Ann Arbor, MI__
+- *Graduate Student Instructor*
+- Taught EECS370 Computer Organization
+- Topics include binary representations, compilation, in-order pipeline, storage organizations
+
 `August 2023 - December 2023`
 __University of Michigan, Ann Arbor, MI__
 - *Graduate Student Instructor*
@@ -119,16 +125,16 @@ __University Honors__
 - *University of Michgan*, Ann Arbor, Michigan
 
 ## Publications
+`2025`
+__Zipper: Latency-Tolerant Optimizations for High-Performance Buses__
+- *To Appear in The Asia and South Pacific Design Automation Conference 2025 (ASP-DAC'25)*
+- <u>S. Chen</u>, H. Zhang, T. Austin.
+
 `2023`
 __Security Verification of Low-Trust Architectures__
 - *In Proceedings of The ACM Conference on Computer and Communications Security 2023 (CCS'23).* <span style="color:red">**Distinguished Paper Award**</span>
 - Q. Tan\*, Y. Fisseha\*, <u>S. Chen</u>\*, L. Biernacki, J.B. Jeannin, S. Malik, T. Austin.
 - \* These individuals contributed equally to the work.
-
-`2023`
-__Zipper: Latency-Tolerant Optimizations for High-Performance Buses__
-- *Under Submission*
-- <u>S. Chen</u>, H. Zhang, T. Austin.
 
 `2022`
 __Twine A Chisel Extension for Component-Level Heterogeneous Design__
@@ -224,7 +230,11 @@ __Hailun(Shirley) Zhang__
 
 `Dec 2023 - Prsent`
 __Yunjie Zhang__
-- Junior Undergraduate, University of Michigan
+- Master student, University of Michigan
+
+`Apri 2024 - Present`
+__Duo Xu, Yishen Zhou__
+- Senior undergraduate students, University of Michigan
 <!-- ### Footer -->
 
-Last updated: Nov 2023
+Last updated: September 2024
