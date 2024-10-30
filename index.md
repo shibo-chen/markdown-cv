@@ -14,6 +14,7 @@ PhD Candidate, Department of Electrical Engineering and Computer Science, Univer
 
 
 ## About me
+<span style="color:red">I am actively looking for full-time jobs. My earliest available date is Mar. 2025</span>
 
 I am a PhD Candidate in [the Department of Electrical Engineering and Computer Science]("https://www.eecs.umich.edu/") at [the University of Michigan]("https://umich.edu/"). I am advised [Prof.Todd Austin](<a href="https://web.eecs.umich.edu/~taustin/">). I am a student in [the Computer Engineering Laboratory(CELAB)]("https://www.eecs.umich.edu/celab/") at the University of Michigan. My field of study is computer system and architecture.
 
@@ -27,7 +28,7 @@ Heterogeneous architecture design, agile hardware design, operating system, priv
 
 
 ## Education
-`2019 - May 2024`
+`2019 - 2025`
 __University of Michigan, Ann Arbor, MI__  
 - Doctor of Philosophy in Computer Science and Engineering
 - GPA: 3.91
