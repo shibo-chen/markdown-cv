@@ -14,8 +14,6 @@ PhD Candidate, Department of Electrical Engineering and Computer Science, Univer
 
 
 ## About me
-<span style="color:red">I am actively looking for full-time jobs. My earliest available date is Mar. 2025</span>
-
 I am a PhD Candidate in [the Department of Electrical Engineering and Computer Science]("https://www.eecs.umich.edu/") at [the University of Michigan]("https://umich.edu/"). I am advised [Prof.Todd Austin](<a href="https://web.eecs.umich.edu/~taustin/">). I am a student in [the Computer Engineering Laboratory(CELAB)]("https://www.eecs.umich.edu/celab/") at the University of Michigan. My field of study is computer system and architecture.
 
 <!-- ### Specialized in
@@ -238,4 +236,4 @@ __Duo Xu, Yishen Zhou__
 - Senior undergraduate students, University of Michigan
 <!-- ### Footer -->
 
-Last updated: September 2024
+Last updated: November 2024
