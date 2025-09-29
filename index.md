@@ -86,6 +86,13 @@ __CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts__
 - *In Proceedings of IEEE Vehicular Networking Conference 2018 (VNC '18).*
 - J. Erickson, <u>S. Chen</u>, M. Savich, S. Hu, M. Mao.
 
+## Services
+`2025`
+
+__Program Committee Memeber, The 53th IEEE Internationa; Conference on Computer Design (ICCD 2025)__
+
+`2025`
+__Program Committee Memeber, The 3rd Workshop on Computer Architecture Modeling and Simulation (CAMS 2025)__
 <!-- ### Footer -->
 
-Last updated: May 2025
+Last updated: SETP 2025
