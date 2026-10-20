@@ -41,7 +41,8 @@ __Trinity College, Cambridge__
 `October 2026 - Now`
 __Tenstorrent Inc., Santa Clara, CA__
 - *Staff Architect*
-- Lead the in-house coherent fabric (CHI): transport, chip-to-chip links, and SoC integration.
+- Lead the in-house coherent fabric (CHI): transport, chip-to-chip links, and generators.
+- Fabric lead for a RISC-V CPU chiplet SoC: integrate CPU clusters, the coherent fabric, IOMMU, timers, and an AI compute engine; firmware runs end to end in simulation.
 - Lead AI-assisted hardware design: executable specs that generate golden models, RTL, and formal checks.
 - Set performance-modeling direction across the AI NoC and the coherent CPU fabric.
 - Mentor architects and interns; align modeling, RTL, and verification teams.
@@ -55,6 +56,7 @@ __Tenstorrent Inc., Santa Clara, CA__
 - Third-party IP: ran design reviews and evaluations of commercial NoC and memory IP; wrapped vendor models for in-house simulation.
 - Performance modeling: CPU multicore scaling and SLC policies, AI-accelerator models correlated with RTL, and a cycle-accurate NoC simulator.
 - Fabric generators: built an AXI fabric generator adopted by SoC teams, and the in-house CHI fabric's generator and formal environment.
+- Spec platform: built the internal service that builds, hosts, and reviews architecture specs (live editing, comments, AI review); teams use it for chip spec sign-off.
 - RISC-V ACLINT: generated RTL from an executable spec and checked it formally against the golden model.
 - Hiring and outreach: built interview frameworks, interviewed candidates, and supported university research collaborations.
 
