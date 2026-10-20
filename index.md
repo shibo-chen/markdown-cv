@@ -4,17 +4,17 @@ title: Shibo Chen's CV
 ---
 # Shibo Chen
 Staff Architect at Tenstorrent Inc.
-<div id="webaddress">2600 Great America Way Suite 501, San Jose, CA 95134
+<div id="webaddress">Santa Clara, CA
 </div>
 <div id="webaddress">
-<a href="schen@tenstorrent.com">schen [at] tenstorrent [dot] com</a>
-| <a href="https://shibo.tech">https://shibo.tech</a>
+<a href="mailto:chshibo@outlook.com">chshibo [at] outlook [dot] com</a>
+| <a href="https://shibo-chen.github.io">https://shibo-chen.github.io</a>
 </div>
 
 
 ## About me
 
-Shibo Chen is a Staff Architect at Tenstorrent. He received his Doctoral degree in Computer Science and Engineering from the University of Michigan in 2025.
+Shibo Chen is a Staff Architect at Tenstorrent. He works on chiplet-based AI/ML accelerators and RISC-V CPU SoCs, across non-coherent and coherent NoCs, memory systems, performance modeling, and AI-assisted hardware design. He received his Doctoral degree in Computer Science and Engineering from the University of Michigan in 2025.
 
 
 ## Education
@@ -22,7 +22,7 @@ Shibo Chen is a Staff Architect at Tenstorrent. He received his Doctoral degree 
 __University of Michigan, Ann Arbor, MI__  
 - Doctor of Philosophy in Computer Science and Engineering
 - GPA: 3.91
-- Dissrtation Thesis: *Streamlining High-Performance Heterogeneous Hardware Design*
+- Dissertation: *Streamlining High-Performance Heterogeneous Hardware Design*
 
 `2022 - 2025`
 __University of Michigan, Ann Arbor, MI__
@@ -64,20 +64,20 @@ __Tenstorrent Inc., Santa Clara, CA__
 - Estimated traffic on/off the chip for power analysis.
 - Proposed and studied architecture changes that boost both multi-core performance and power efficiency.
 - Drafted testplan for cache and fabric verification.
-- Developed workflow for multi-core. multi-chiplet fabric traffic testing and simulation.
-- Configured Arteris IP for non-conherent traffic.
+- Developed workflow for multi-core, multi-chiplet fabric traffic testing and simulation.
+- Configured Arteris IP for non-coherent traffic.
 
-`May 2022 - Augusture 2022`
+`May 2022 - August 2022`
 __Tenstorrent Inc., Santa Clara, CA__
-- *Platform Architect Intern*
+- *Platform Architecture Intern*
 - Participated in the architectural design of a modern server-level RISC-V multicore CPU.
 - Developed in-house reconfigurable fabric performance model for heterogeneous multicore systems.
-- Designed configuration semantics to represent a wide range of farbric design options.
+- Designed configuration semantics to represent a wide range of fabric design options.
 
 ## Publications
 `2025`
 __Zipper: Latency-Tolerant Optimizations for High-Performance Buses__
-- *To Appear in The Asia and South Pacific Design Automation Conference 2025 (ASP-DAC'25)*
+- *In Proceedings of The Asia and South Pacific Design Automation Conference 2025 (ASP-DAC'25)*
 - <u>S. Chen</u>, H. Zhang, T. Austin.
 
 `2023`
@@ -87,9 +87,9 @@ __Security Verification of Low-Trust Architectures__
 - \* These individuals contributed equally to the work.
 
 `2022`
-__Twine A Chisel Extension for Component-Level Heterogeneous Design__
+__Twine: A Chisel Extension for Component-Level Heterogeneous Design__
 - *In Proceedings of Design, Automation and Test in Europe Conference 2022 (DATE'22, 25% Acceptance Rate)*
-- <u>S. Chen</u>, J. Fisseha, J.B. Jeannin, T. Austin. 
+- <u>S. Chen</u>, Y. Fisseha, J.B. Jeannin, T. Austin. 
 
 `2019`
 __Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn__
@@ -105,10 +105,10 @@ __CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts__
 ## Services
 `2025`
 
-__Program Committee Memeber, The 53th IEEE Internationa; Conference on Computer Design (ICCD 2025)__
+__Program Committee Member, The 53rd IEEE International Conference on Computer Design (ICCD 2025)__
 
 `2025`
-__Program Committee Memeber, The 3rd Workshop on Computer Architecture Modeling and Simulation (CAMS 2025)__
+__Program Committee Member, The 3rd Workshop on Computer Architecture Modeling and Simulation (CAMS 2025)__
 <!-- ### Footer -->
 
-Last updated: SETP 2025
+Last updated: October 2026
