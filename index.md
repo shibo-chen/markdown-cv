@@ -3,7 +3,7 @@ layout: cv
 title: Shibo Chen's CV
 ---
 # Shibo Chen
-Senior Architecture Engineer at Tenstorrent Inc.
+Staff Architect at Tenstorrent Inc.
 <div id="webaddress">2600 Great America Way Suite 501, San Jose, CA 95134
 </div>
 <div id="webaddress">
@@ -14,7 +14,7 @@ Senior Architecture Engineer at Tenstorrent Inc.
 
 ## About me
 
-Shibo Chen is a senior architecture engineer at Tenstorrent. He received his Doctoral degree in Computer Science and Engineering from the University of Michigan in 2025.
+Shibo Chen is a Staff Architect at Tenstorrent. He received his Doctoral degree in Computer Science and Engineering from the University of Michigan in 2025.
 
 
 ## Education
@@ -38,9 +38,21 @@ __Trinity College, Cambridge__
 
 - Fellow -->
 ## Industry Experience
-`May 2025 - Now`
+`October 2026 - Now`
 __Tenstorrent Inc., Santa Clara, CA__
-- *Senior Architecture Engineer*
+- *Staff Architect*
+- Set NoC architecture direction for chiplet-based AI/ML accelerators, from trade-off studies to decisions.
+- Drive an executable-spec methodology: specs as code that generate golden models, RTL, and formal checks.
+- Mentor architects and interns; align modeling, RTL, and verification teams.
+
+`May 2025 - October 2026`
+__Tenstorrent Inc., Santa Clara, CA__
+- *Senior Architect*
+- Owned NoC specs for chiplet SoCs: interleaving, telemetry, power domains, and third-party IP alignment.
+- Built a cycle-accurate NoC model; correlated it with RTL and AI workloads.
+- Modeled D2D paths and memory systems (LLC policy, LPDDR bandwidth).
+- Built fabric RTL generators; spec reviews found dozens of CHI protocol bugs.
+- Led NoC, D2D, AXI/CHI/PCIe, and LPDDR/DDR architecture reviews.
 
 `May 2023 - August 2023`
 __Tenstorrent Inc., Santa Clara, CA__
