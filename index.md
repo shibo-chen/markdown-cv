@@ -76,6 +76,11 @@ __Tenstorrent Inc., Santa Clara, CA__
 
 ## Publications
 `2025`
+__Streamlining High-Performance Heterogeneous Hardware Design__
+- *PhD Dissertation, University of Michigan, 2025*
+- <u>S. Chen</u>. [PDF](https://shibo-chen.github.io/files/thesis.pdf)
+
+`2025`
 __Zipper: Latency-Tolerant Optimizations for High-Performance Buses__
 - *In Proceedings of The Asia and South Pacific Design Automation Conference 2025 (ASP-DAC'25)*
 - <u>S. Chen</u>, H. Zhang, T. Austin.
