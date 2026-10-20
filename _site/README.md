@@ -1,3 +1,5 @@
+> **Superseded.** Shibo Chen's CV now lives at https://shibo-chen.github.io/cv/ and is built from `data/cv/` in the `shibo_chen_website` repo. This repository only redirects to it.
+
 markdown-cv
 ===========
 
